@@ -3,8 +3,8 @@
         "name": "Max Verstappen",
         "age": 26,
         "team": "Red Bull",
-        "podiums": 45,
-        "wins": 30,
+        "podiums": 127,
+        "wins": 71,
         "gp": 233,
         "image": "verstappen.jpg",
         "color": "#0600ef"
@@ -53,8 +53,8 @@
         "name": "Charles Leclerc",
         "age": 25,
         "team": "Ferrari",
-        "podiums": 15,
-        "wins": 3,
+        "podiums": 50,
+        "wins": 8,
         "gp": 171,
         "image": "chalec01.jpg",
         "color": "#dc0000"
