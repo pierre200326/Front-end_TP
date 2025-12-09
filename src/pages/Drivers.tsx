@@ -38,7 +38,7 @@ export default function Drivers() {
                         style={{ borderTop: `4px solid ${driver.color}` }}
                     >
                         <img
-                            src={`/images/${driver.image}`}
+                            src={`${import.meta.env.BASE_URL}images/${driver.image}`}
                             alt={driver.name}
                             className="driver-image"
                         />

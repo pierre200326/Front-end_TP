@@ -39,7 +39,7 @@ export default function Teams() {
                     >
                         <div className="team-card-content">
                             <img
-                                src={`/images/${team.image}`}
+                                src={`${import.meta.env.BASE_URL}images/${team.image}`}
                                 alt={team.name}
                                 className="team-image"
                             />
