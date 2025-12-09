@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Max Verstappen",
+        "age": 26,
+        "team": "Red Bull",
+        "podiums": 45,
+        "wins": 30,
+        "gp": 233,
+        "image": "verstappen.jpg",
+        "color": "#0600ef"
+    },
+    {
+        "name": "Yuki Tsunoda",
+        "age": 25,
+        "team": "Red Bull",
+        "podiums": 0,
+        "wins": 0,
+        "gp": 114,
+        "image": "yuktsu01.jpg",
+        "color": "#0600ef"
+    },
+    {
+        "name": "George Russell",
+        "age": 27,
+        "team": "Mercedes",
+        "podiums": 25,
+        "wins": 5,
+        "gp": 152,
+        "image": "georus01.jpg",
+        "color": "#00d2be"
+    },
+    {
+        "name": "Andrea Kimi Antonelli",
+        "age": 19,
+        "team": "Mercedes",
+        "podiums": 3,
+        "wins": 0,
+        "gp": 24,
+        "image": "andant01.jpg",
+        "color": "#00d2be"
+    },
+    {
+        "name": "Lewis Hamilton",
+        "age": 40,
+        "team": "Ferrari",
+        "podiums": 202,
+        "wins": 105,
+        "gp": 380,
+        "image": "lewham01.jpg",
+        "color": "#dc0000"
+    },
+    {
+        "name": "Charles Leclerc",
+        "age": 25,
+        "team": "Ferrari",
+        "podiums": 15,
+        "wins": 3,
+        "gp": 171,
+        "image": "chalec01.jpg",
+        "color": "#dc0000"
+    },
+    {
+        "name": "Lando Norris",
+        "age": 26,
+        "team": "McLaren",
+        "podiums": 44,
+        "wins": 11,
+        "gp": 152,
+        "image": "lannor01.jpg",
+        "color": "#ff8700"
+    },
+    {
+        "name": "Oscar Piastri",
+        "age": 24,
+        "team": "McLaren",
+        "podiums": 26,
+        "wins": 9,
+        "gp": 71,
+        "image": "oscpia01.jpg",
+        "color": "#ff8700"
+    },
+    {
+        "name": "Fernando Alonso",
+        "age": 44,
+        "team": "Aston Martin",
+        "podiums": 106,
+        "wins": 32,
+        "gp": 426,
+        "image": "feralo01.jpg",
+        "color": "#006f62"
+    },
+    {
+        "name": "Lance Stroll",
+        "age": 27,
+        "team": "Aston Martin",
+        "podiums": 3,
+        "wins": 0,
+        "gp": 191,
+        "image": "lanstr01.jpg",
+        "color": "#006f62"
+    },
+    {
+        "name": "Pierre Gasly",
+        "age": 29,
+        "team": "Alpine",
+        "podiums": 5,
+        "wins": 1,
+        "gp": 177,
+        "image": "piegas01.jpg",
+        "color": "#0090ff"
+    },
+    {
+        "name": "Franco Colapinto",
+        "age": 22,
+        "team": "Alpine",
+        "podiums": 0,
+        "wins": 0,
+        "gp": 27,
+        "image": "fracol01.jpg",
+        "color": "#0090ff"
+    },
+    {
+        "name": "Nico Hülkenberg",
+        "age": 38,
+        "team": "Sauber",
+        "podiums": 1,
+        "wins": 0,
+        "gp": 249,
+        "image": "nichul01.jpg",
+        "color": "#10c916"
+    },
+    {
+        "name": "Gabriel Bortoleto",
+        "age": 21,
+        "team": "Sauber",
+        "podiums": 0,
+        "wins": 0,
+        "gp": 24,
+        "image": "gabbor01.jpg",
+        "color": "#10c916"
+    },
+    {
+        "name": "Isack Hadjar",
+        "age": 21,
+        "team": "Racing Bulls",
+        "podiums": 1,
+        "wins": 0,
+        "gp": 23,
+        "image": "isahad01.jpg",
+        "color": "#095dbd"
+    },
+    {
+        "name": "Liam Lawson",
+        "age": 23,
+        "team": "Racing Bulls",
+        "podiums": 0,
+        "wins": 0,
+        "gp": 35,
+        "image": "lialaw01.jpg",
+        "color": "#095dbd"
+    },
+    {
+        "name": "Oliver Bearman",
+        "age": 20,
+        "team": "Haas",
+        "podiums": 0,
+        "wins": 0,
+        "gp": 27,
+        "image": "olibea01.jpg",
+        "color": "#454969"
+    },
+    {
+        "name": "Esteban Ocon",
+        "age": 29,
+        "team": "Hass",
+        "podiums": 4,
+        "wins": 1,
+        "gp": 180,
+        "image": "estoco01.jpg",
+        "color": "#454969"
+    },
+    {
+        "name": "Alexander Albon",
+        "age": 29,
+        "team": "Williams",
+        "podiums": 2,
+        "wins": 0,
+        "gp": 129,
+        "image": "alealb01.jpg",
+        "color": "#010b63"
+    },
+    {
+        "name": "Carlos Sainz",
+        "age": 31,
+        "team": "Williams",
+        "podiums": 30,
+        "wins": 4,
+        "gp": 229,
+        "image": "carsai01.jpg",
+        "color": "#010b63"
+    }
+]

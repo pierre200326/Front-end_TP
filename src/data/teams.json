@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Oracle Red Bull Racing",
+        "country": "Autriche",
+        "description": "Écurie dominante, multiple championne du monde.",
+        "Titres": 6,
+        "image": "RedBull.png",
+        "color": "#1E3A8A"
+    },
+    {
+        "name": "Mercedes‑AMG Petronas F1 Team",
+        "country": "Allemagne",
+        "description": "Septuple champion du monde avec Lewis Hamilton.",
+        "Titres": 8,
+        "image": "Mercedes.png",
+        "color": "#00d2be"
+    },
+    {
+        "name": "Scuderia Ferrari HP",
+        "country": "Italie",
+        "description": "La mythique équipe italienne au rouge emblématique.",
+        "Titres": 16,
+        "image": "Ferrari.png",
+        "color": "#ED1C24"
+    },
+    {
+        "name": "McLaren F1 Team",
+        "country": "Royaume-Uni",
+        "description": "Écurie britannique orange papaye, toujours compétitive.",
+        "Titres": 10,
+        "image": "McLaren.png",
+        "color": "#FF8700"
+    },
+    {
+        "name": "BWT Alpine F1 Team",
+        "country": "France",
+        "description": "Équipe française bleu-rose, montée rapidement en puissance.",
+        "Titres": 0,
+        "image": "Alpine.png",
+        "color": "#0090FF"
+    },
+    {
+        "name": "Aston Martin Aramco F1 Team",
+        "country": "Royaume-Uni",
+        "description": "Écurie verte élégante avec un design moderne.",
+        "Titres": 0,
+        "image": "AstonMartin.png",
+        "color": "#006F62"
+    },
+    {
+        "name": "MoneyGram Haas F1 Team",
+        "country": "USA",
+        "description": "Équipe américaine avec un style simple mais efficace.",
+        "Titres": 0,
+        "image": "Haas.png",
+        "color": "#454969"
+    },
+    {
+        "name": "Atlassian Williams Racing",
+        "country": "Royaume-Uni",
+        "description": "Écurie historique britannique bleu foncé.",
+        "Titres": 9,
+        "image": "Williams.png",
+        "color": "#005AFF"
+    },
+    {
+        "name": "Visa Cash App Racing Bulls F1 Team",
+        "country": "Italie",
+        "description": "Écurie historique britannique bleu foncé.",
+        "Titres": 0,
+        "image": "RacingBulls.png",
+        "color": "#095dbd"
+    },
+    {
+        "name": "Stake F1 Team Kick Sauber",
+        "country": "Suisse",
+        "description": "Écurie historique britannique bleu foncé.",
+        "Titres": 0,
+        "image": "Stake.png",
+        "color": "#10c916"
+    }
+]

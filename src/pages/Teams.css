@@ -1,0 +1,96 @@
+h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 2.5rem;
+}
+
+.teams-page {
+    min-height: 100vh;
+    padding: 3rem;
+    background: linear-gradient(135deg, #000000, #3f3e3e);
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.teams-list {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1.5rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+
+.team-card {
+    position: relative;
+    background-color: #111;
+    /* fallback */
+    padding: 0;
+    border-radius: 12px;
+    overflow: hidden;
+    color: white;
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+}
+
+.team-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* Fond coloré selon l'écurie */
+.team-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-color: var(--team-color);
+    /* on définira cette variable en inline style */
+    opacity: 0.9;
+    z-index: 0;
+}
+
+.team-card-content {
+    position: relative;
+    z-index: 1;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+/* Image/logo centrée */
+.team-image {
+    width: 80%;
+    max-height: 150px;
+    object-fit: contain;
+    margin: 0 auto 1rem;
+    display: block;
+}
+
+/* Titres et textes */
+.team-card h2 {
+    margin-bottom: 0.5rem;
+}
+
+.team-card p {
+    margin: 0.3rem 0;
+    color: #fff;
+}
+
+.back-button-container {
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+
+.btn-outline {
+    padding: 0.8rem 1.5rem;
+    border: 2px solid #e10600;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+.btn-outline:hover {
+    background: #e10600;
+    color: white;
+}
